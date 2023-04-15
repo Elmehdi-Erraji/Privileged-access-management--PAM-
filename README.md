@@ -1,0 +1,2 @@
+# Privileged access management (PAM)
+ 
